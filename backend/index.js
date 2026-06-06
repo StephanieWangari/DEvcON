@@ -21,7 +21,7 @@ app.use(cookieParser());
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://d-evc-on-blog.vercel.app"
+        "https://d-evc-on.vercel.app/"
     ],
     credentials: true,
 }));

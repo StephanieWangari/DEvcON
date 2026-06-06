@@ -3,7 +3,7 @@ const config = {
         apiUrl: "http://localhost:7000"
     },
     production: {
-        apiUrl: "https://devcon-blog.onrender.com"
+        apiUrl: "https://devcon-ad8h.onrender.com"
     }
 };
 
